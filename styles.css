@@ -1,0 +1,12 @@
+*{
+    background-color: #09a9f3;
+}
+div{
+    margin: 20px;
+}
+#text{
+    color: #fff;
+    font-size: 15px;
+    font-family: sans-serif;
+    text-align: center;
+}
